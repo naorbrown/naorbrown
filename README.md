@@ -12,19 +12,22 @@
 
 🔆 [ashlag-yomi](https://github.com/naorbrown/ashlag-yomi) — Daily Baal HaSulam & Rabash quotes on Telegram
 
-📗 [limud](https://github.com/naorbrown/limud) — Dark-mode Daf Yomi app with meforshim commentary
+📗 [peninei-halacha-yomi-bot](https://github.com/naorbrown/peninei-halacha-yomi-bot) — 2 daily Peninei Halacha voice recordings at 5AM Israel time
+
+📓 [limud](https://github.com/naorbrown/limud) — Dark-mode Daf Yomi web app with meforshim commentary
 
 🏛️ [openshekel](https://github.com/naorbrown/openshekel) — Israeli tax transparency, see where every shekel goes
 
 🌱 [homeharvest](https://github.com/naorbrown/homeharvest) — Minimalist educational site for home food growing
 
-🧴 [the-clean-pantry](https://github.com/naorbrown/the-clean-pantry) — Simple, non-toxic recipes and guides for your entire home
+🧴 [the-clean-pantry](https://github.com/naorbrown/the-clean-pantry) — Non-toxic recipes and guides for your home
 
-🥜 [clean-snacks](https://github.com/naorbrown/clean-snacks) — Real-food snack recipes, replace packaged junk with snacks you make yourself
+🥜 [clean-snacks](https://github.com/naorbrown/clean-snacks) — Real-food snack recipes, replace packaged junk
 
 🪴 [plant-therapy](https://github.com/naorbrown/plant-therapy) — Plant guide organized by use case, not species
 
 💡 [enlighten-tech](https://github.com/naorbrown/enlighten-tech) — Enlighten Technologies website
+
 
 ## Connect
 
