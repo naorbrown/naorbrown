@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi, I'm Naor 👋
 
 ## Projects
 
@@ -12,7 +12,7 @@
 
 🔆 [ashlag-yomi](https://github.com/naorbrown/ashlag-yomi) — Daily Baal HaSulam & Rabash quotes on Telegram
 
-📗 [peninei-halacha-yomi-bot](https://github.com/naorbrown/peninei-halacha-yomi-bot) — 2 daily Peninei Halacha voice recordings at 5AM Israel time
+📗 [peninei-halacha-yomi-bot](https://github.com/naorbrown/peninei-halacha-yomi-bot) — Daily Peninei Halacha voice recordings delivered each morning on Telegram
 
 📓 [limud](https://github.com/naorbrown/limud) — Dark-mode Daf Yomi web app with meforshim commentary
 
